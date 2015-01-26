@@ -11,14 +11,16 @@ Everyone has to ship code on day 1 :)
 After completing this assignment, you should…
 
 * Understand the building blocks of web development
+* Understand how and why to use Chrome DevTools
 * Be comfortable with the general requirements for submitting assignments :)
 
 ##### Performance Objectives
 
 After completing this assignment, you should be able to effectively use:
 
-* HTML (and W3C validation)
+* HTML
 * CSS
+* Chrome DevTools ("Element" panel)
 * Codepen
 * Github issues
 
@@ -32,7 +34,7 @@ After completing this assignment, you should be able to effectively use:
 
 Create a Codepen that contains at least **10** distinct HTML tags, and **10** different CSS properties.
 
-Your HTML should be valid, semantic, and go at least four levels deep.
+Your HTML should be valid, and go at least four levels deep.
 
 Your CSS should be valid and use at least three complex selectors.
 
