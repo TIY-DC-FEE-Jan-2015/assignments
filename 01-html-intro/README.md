@@ -36,7 +36,7 @@ Create a Codepen that contains at least **10** distinct HTML tags, and **10** di
 
 Your HTML should be valid, and go at least four levels deep.
 
-Your CSS should be valid and use at least three complex selectors.
+Your CSS should be valid and use at least three complex selectors. You should use all three of the `display` properties that we introduced today: `block`, `inline-block`, and `inline`.
 
 ### Hard Mode
 
@@ -46,3 +46,8 @@ In addition to normal mode, take a look at [this Codepen](http://codepen.io/kylf
 * some content is shifted over to the left
 
 Make a fork of the Codepen (just hit the "Fork" button on the top) and fix the HTML bugs.
+
+### Additional Resources
+
+[Mozilla - HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+[Mozilla - CSS Property Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
