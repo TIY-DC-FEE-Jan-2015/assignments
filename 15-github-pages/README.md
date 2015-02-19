@@ -11,7 +11,7 @@ After completing this assignment, you should feel confident using:
 * Third-party APIs and reading API documentation
 * jQuery AJAX
 * Using and iterating over arrays and objects with JavaScript
-* Underscore templating
+* Templating with Handlebars
 * HTML and CSS
 
 ### Details
@@ -41,7 +41,7 @@ Create a web page that pulls in data from GitHub's API that replicates the conte
 
 Remember to include the `access_token` parameter so you don't get rate limited.
 
-Write `$.ajax` requests to those URLs. After loading data from the API, make sure to display the content that matches what's on the real page, **using underscore templates** for the user and repository. I'll be looking for (at least) the following fields for the user data (the left column):
+Write `$.ajax` requests to those URLs. After loading data from the API, make sure to display the content that matches what's on the real page, **using Handlebars templates** for the user and repository. I'll be looking for (at least) the following fields for the user data (the left column):
 
 * `login`
 * `avatar_url`
