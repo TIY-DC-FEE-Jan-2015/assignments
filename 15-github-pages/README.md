@@ -30,7 +30,7 @@ Two things you should do before you start:
 
 You can then pass that in as a parameter to any GitHub API call:
 
-`https://api.github.com/users/kylehill?access_token= 9bcab58d9a29c23c64092c5f0cd8d1c969d7a4f2`
+`https://api.github.com/users/kylehill?access_token=9bcab58d9a29c23c64092c5f0cd8d1c969d7a4f2`
 
 ### Normal Mode
 
