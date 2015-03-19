@@ -25,3 +25,5 @@ All of the necessary data should be provided in the API and should be reasonably
 * `video`: http://assets.espn.go.com/icons/watch_headlines.png
 
 As an added bonus, this gives you a reason to stare at the ESPN.com homepage during the first two rounds of the NCAA tournament, which you'd probably be doing this weekend anyway :)
+
+(PS [Let's go Friars](http://xfinity.comcast.net/slideshow/sports-creepcollemascots/))
